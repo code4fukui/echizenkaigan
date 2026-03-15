@@ -1,5 +1,7 @@
 # echizenkaigan
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 https://code4fukui.github.io/echizenkaigan/
 
 ## Collaborating Organizations
