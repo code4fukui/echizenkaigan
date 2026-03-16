@@ -2,19 +2,21 @@
 
 > 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
+A web application that introduces attractive tourist spots along the Echizen Coast.
+
+## Demo
 https://code4fukui.github.io/echizenkaigan/
 
-## Collaborating Organizations
-
-- [Echizen Coast Revitalization Squad](https://discoverechizen.com/)
-- [Fukui National College of Technology](https://www.fukui-nct.ac.jp/)
-
 ## Features
-- Interactive map of spots along the Echizen Coast
-- Includes information on attractions, restaurants, and other facilities
+- Displays spots on an interactive map using data from a CSV file
+- Allows users to click on spots to view detailed information about the facilities
 
 ## Data / API
 The project uses a CSV file hosted at https://code4fukui.github.io/echizenkaigan/echizenkaigan-spot.csv to power the interactive map.
 
+## Collaborating Organizations
+- [Echizen Coast Revitalization Squad](https://discoverechizen.com/)
+- [Fukui National College of Technology](https://www.fukui-nct.ac.jp/)
+
 ## License
-This project is open source, but the license is not specified.
+MIT License — see [LICENSE](LICENSE).
